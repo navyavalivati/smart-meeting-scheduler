@@ -1,0 +1,6 @@
+@SmartMeetingScheduler_HostAddress = http://localhost:5122
+
+GET {{SmartMeetingScheduler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
